@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there
 
 <!--
 **wtdcode/wtdcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Here is lazymio, a security researcher and open-source enthusiast.
+
+My Sildes: https://github.com/wtdcode/mytalks
+My Blog: https://blog.lazym.io (English) / https://blog.ihomura.cn
