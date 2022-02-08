@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 Here is lazymio, a security researcher and open-source enthusiast.
 
-My Sildes: [Sildes](https://github.com/wtdcode/mytalks) 📜
+My talks: [Sildes](https://github.com/wtdcode/mytalks) 📜
 
-My Blog: [English](https://blog.lazym.io) / [Chinese](https://blog.ihomura.cn) 📝
+My blog: [English](https://blog.lazym.io) / [Chinese](https://blog.ihomura.cn) 📝
 
 Find me via [twitter](https://twitter.com/pwnedmio), [telegram](https://t.me/lazymio) or [email](mailto:mio@lazym.io). ✉️
