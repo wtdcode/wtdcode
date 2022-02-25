@@ -22,3 +22,9 @@ My talks: [Sildes](https://github.com/wtdcode/mytalks) 📜
 My blog: [English](https://blog.lazym.io) / [Chinese](https://blog.ihomura.cn) 📝
 
 Find me via [twitter](https://twitter.com/pwnedmio), [telegram](https://t.me/lazymio) or [email](mailto:mio@lazym.io). ✉️
+
+CVE: CVE-2022-0476, CVE-2022-0676, CVE-2022-0695
+
+Patch:
+
+- [QEMU FCS:FIP and FDS:FDP implementation](https://github.com/qemu/qemu/commit/84abdd7d271c2df69a9d394be093efd885da7a4c)
