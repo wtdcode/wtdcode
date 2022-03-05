@@ -27,4 +27,5 @@ CVE: CVE-2022-0476, CVE-2022-0676, CVE-2022-0695
 
 Patch:
 
-- [QEMU FCS:FIP and FDS:FDP implementation](https://github.com/qemu/qemu/commit/84abdd7d271c2df69a9d394be093efd885da7a4c)
+- [QEMU: FCS:FIP and FDS:FDP implementation](https://github.com/qemu/qemu/commit/84abdd7d271c2df69a9d394be093efd885da7a4c)
+- [QEMU: Fix MAX_OPC_PARAM_IARGS](https://github.com/qemu/qemu/commit/7980fe3efccc2b361f14abb0f2a15e50d1eb876c)
