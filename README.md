@@ -21,7 +21,7 @@ My talks: [Sildes](https://github.com/wtdcode/mytalks) 📜
 
 My blog: [English](https://blog.lazym.io) / [Chinese](https://blog.ihomura.cn) 📝
 
-Find me via [twitter](https://twitter.com/pwnedmio), [telegram](https://t.me/lazymio) or [email](mailto:mio@lazym.io). ✉️
+Find me via [twitter](https://twitter.com/pwnedmio), [telegram](https://t.me/lazymio) or [email](mailto:mio@lazym.io). ✉️ I usually reply to non-spam emails in 12 hours.
 
 CVE: CVE-2022-0476, CVE-2022-0676, CVE-2022-0695
 
