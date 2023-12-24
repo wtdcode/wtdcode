@@ -23,7 +23,7 @@ My blog: [English](https://blog.lazym.io) / [Chinese](https://blog.ihomura.cn) �
 
 Find me via [twitter](https://twitter.com/pwnedmio), [telegram](https://t.me/lazymio) or [email](mailto:mio@lazym.io). ✉️ Usually reply to non-spam messages in 12 hours.
 
-CVE: CVE-2022-0476, CVE-2022-0676, CVE-2022-0695
+CVE: CVE-2022-0476, CVE-2022-0676, CVE-2022-0695, CVE-2023-50493, CVE-2023-50494, CVE-2023-50495
 
 Bugs: [Objdump #30327](https://sourceware.org/bugzilla/show_bug.cgi?id=30327) [Objdump #30326](https://sourceware.org/bugzilla/show_bug.cgi?id=30326) [Objdump #30365](https://sourceware.org/bugzilla/show_bug.cgi?id=30365) [ncurse](https://lists.gnu.org/archive/html/bug-ncurses/2023-04/msg00020.html) [Objdump #30361](https://sourceware.org/bugzilla/show_bug.cgi?id=30361) [Objdump #30366](https://sourceware.org/bugzilla/show_bug.cgi?id=30366) [ImageMagick #6267](https://github.com/ImageMagick/ImageMagick/issues/6267) [Xpdf #4483](https://forum.xpdfreader.com/viewtopic.php?p=44483) [Xpdf #4482](https://forum.xpdfreader.com/viewtopic.php?p=44482)
 
