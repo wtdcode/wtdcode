@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 Here is lazymio, a security researcher and open-source enthusiast.
 
+[Sponsor me](https://github.com/sponsors/wtdcode) if you like my works. =) 
+
 My talks: [Sildes](https://github.com/wtdcode/mytalks) 📜
 
 My blog: [English](https://blog.lazym.io) / [Chinese](https://blog.ihomura.cn) 📝
