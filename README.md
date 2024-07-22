@@ -34,3 +34,9 @@ Patch:
 - [QEMU: FCS:FIP and FDS:FDP implementation](https://github.com/qemu/qemu/commit/84abdd7d271c2df69a9d394be093efd885da7a4c)
 - [QEMU: Fix MAX_OPC_PARAM_IARGS](https://github.com/qemu/qemu/commit/0166feda3257b5987be62566ad1f421c6527ba67)
 - [QEMU: Fix s->T0 not initialized for lock cmp instructions](https://github.com/qemu/qemu/commit/99d0dcd7f102c07a510200d768cae65e5db25d23)
+
+Random Fun Facts:
+
+- `wtdcode` is literally `watered code`
+- I can code in at least 10 languages: (>10k Loc) Rust, Python, C, C++(<=17)/(>5k LoC) Java, Golang(<=1.11), PHP(<=7), Javascript/(>1k Loc) Typescript, C#
+- I use fish, but I only program shell scripts in bash.
