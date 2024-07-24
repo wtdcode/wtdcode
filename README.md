@@ -38,5 +38,9 @@ Patch:
 Random Fun Facts:
 
 - `wtdcode` is literally `watered code`
-- I can code in at least 10 languages: (>10k Loc) Rust, Python, C, C++(<=17) | (>5k LoC) Java, Golang(<=1.11), PHP(<=7), Javascript | (>1k Loc) Typescript, C#
+- I can code in at least 10 languages:
+  - (>10k LoC) Rust, Python, C, C++(<=17)
+  - (>5k LoC) Java, Golang(<=1.11), PHP, Javascript
+  - (>1k LoC) Typescript, C#, C++(>17), Golang(>1.18)
 - I use fish, but I only program shell scripts in bash.
+- I often violate the security principles I'm researching =).
