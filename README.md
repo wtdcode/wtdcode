@@ -34,7 +34,8 @@ Patch:
 - [QEMU: FCS:FIP and FDS:FDP implementation](https://github.com/qemu/qemu/commit/84abdd7d271c2df69a9d394be093efd885da7a4c)
 - [QEMU: Fix MAX_OPC_PARAM_IARGS](https://github.com/qemu/qemu/commit/0166feda3257b5987be62566ad1f421c6527ba67)
 - [QEMU: Fix s->T0 not initialized for lock cmp instructions](https://github.com/qemu/qemu/commit/99d0dcd7f102c07a510200d768cae65e5db25d23)
-
+- [QEMU: Fix endless translation loop on big endian systems](https://github.com/qemu/qemu/commit/ad63158bdb33dab5704ea1cf740d2ea0387175df)
+- 
 Random Fun Facts:
 
 - `wtdcode` is literally `watered code`
